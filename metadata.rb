@@ -5,3 +5,5 @@ license          'All rights reserved'
 description      'Installs/Configures cerkberk2'
 long_description 'Installs/Configures cerkberk2'
 version          '0.1.0'
+
+depends 'cerkberk1' 
